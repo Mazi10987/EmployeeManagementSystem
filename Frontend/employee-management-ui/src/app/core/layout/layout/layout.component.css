@@ -1,0 +1,33 @@
+h1{
+
+    margin-bottom:20px;
+
+}
+
+mat-card{
+
+    width:95%;
+
+    height:120px;
+
+}
+
+mat-card-content{
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    height:70px;
+
+}
+
+h2{
+
+    font-size:36px;
+
+    color:#1976d2;
+
+}
